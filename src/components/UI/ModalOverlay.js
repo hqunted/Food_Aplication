@@ -7,5 +7,4 @@ const ModalOverlay = (props) => {
     </div>
   );
 };
-
 export default ModalOverlay;
